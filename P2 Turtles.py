@@ -162,6 +162,6 @@ def draw_circle(steve, x, y, radius, pen, fill):
     
 #End of draw_circle()
 
-#End of Porgram
+#End of Program
 if __name__ == "__main__":
     main()
